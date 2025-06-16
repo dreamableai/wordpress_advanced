@@ -20,7 +20,7 @@ const printNextSteps = () => {
 
   // Support
   console.log("\n✊ ", chalk.black.bgYellow(" Support WordPressify \n"));
-  console.log("Like WordPressify? Check out our other free and open source repositories: \n");
+
   console.log(
     `	${chalk.yellow("Cherry → ")} https://bit.ly/3sEr75P`,
     "\n",

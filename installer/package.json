@@ -25,7 +25,6 @@
     "docker compose"
   ],
   "homepage": "https://www.wordpressify.co",
-  "repository": "https://github.com/luangjokaj/wordpressify",
   "type": "module",
   "node": "^12.20.0 || ^14.13.1 || >=16.0.0",
   "scripts": {
@@ -42,21 +41,6 @@
     "lintcss": "docker compose run --rm nodejs npm run lint:css"
   },
   "author": "Luan Gjokaj <luan@riangle.com>",
-  "contributors": [
-    {
-      "name": "Luan Gjokaj",
-      "email": "luan@riangle.com",
-      "url": "https://www.riangle.com/"
-    },
-    {
-      "name": "Bruno Ribarić",
-      "url": "https://github.com/ribaricplusplus"
-    },
-    {
-      "name": "Mountain/\\Ash",
-      "url": "https://github.com/mountainash"
-    }
-  ],
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.27.4",
